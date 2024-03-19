@@ -13,7 +13,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/ccto/A.Infra.Cipher</RepositoryUrl>
     <Authors>青云 i@eastbeauty.cn</Authors>
-    <PackageTags>A Infra Cipher</PackageTags>
+    <PackageTags>Cipher</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
