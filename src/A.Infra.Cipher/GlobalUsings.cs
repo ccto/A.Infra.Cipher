@@ -1,0 +1,13 @@
+﻿global using Org.BouncyCastle.Asn1.GM;
+global using Org.BouncyCastle.Crypto;
+global using Org.BouncyCastle.Crypto.Digests;
+global using Org.BouncyCastle.Crypto.Engines;
+global using Org.BouncyCastle.Crypto.Generators;
+global using Org.BouncyCastle.Crypto.Macs;
+global using Org.BouncyCastle.Crypto.Parameters;
+global using Org.BouncyCastle.Crypto.Signers;
+global using Org.BouncyCastle.Math;
+global using Org.BouncyCastle.Security;
+global using Org.BouncyCastle.Utilities.Encoders;
+global using System.Text;
+global using System.Text.RegularExpressions;
